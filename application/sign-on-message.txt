@@ -1,0 +1,2 @@
+Sign in to your user profile to store and view your testing statistics.
+Usernames are NOT case-sensitive.
